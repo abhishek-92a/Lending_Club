@@ -1,5 +1,5 @@
 # Project Name
-> Outline a brief description of your project.
+> Using EDA and Python predict the creditworthiness of a loan applicant by analyzing a labelled dataset of bank customers and use the model to decide on loan approvals for new applicants.
 
 
 ## Table of Contents
@@ -11,10 +11,10 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- USe the concepts of Univariate and bivariate analysis to explore what factors of a customer will influence their creditworthyness to decide if the bank can approve / reject / partial approval with high interest rate
+- A very common problem faced by the banking industry whuch can leverage EDA to answer if a loan application can be accepted or rejected
+- Make a recommendation engine to identify and classify risky loan applicants for accepting (full loan or Partial loan) or rejecting loan applicants
+- loan.csv with over 100 columns related to the existing customer who are either - Paid, paying or defaulted their loans
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -28,9 +28,9 @@
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Python 3.0
+- NumPy
+- Pandas
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
@@ -38,11 +38,11 @@
 Give credit here.
 - This project was inspired by...
 - References if any...
-- This project was based on [this tutorial](https://www.example.com).
+  
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by Abhishek Ayyagari - feel free to contact me!
 
 
 <!-- Optional -->
