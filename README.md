@@ -31,6 +31,7 @@
 - Python 3.0
 - NumPy
 - Pandas
+- Matplot lib and seaborn
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
