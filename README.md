@@ -7,7 +7,7 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- USe the concepts of Univariate and bivariate analysis to explore what factors of a customer will influence their creditworthyness to decide if the bank can approve / reject / partial approval with high interest rate
+- Use the concepts of Univariate and bivariate analysis to explore what factors of a customer will influence their creditworthyness to decide if the bank can approve / reject / partial approval with high interest rate
 - A very common problem faced by the banking industry whuch can leverage EDA to answer if a loan application can be accepted or rejected
 - Make a recommendation engine to identify and classify risky loan applicants for accepting (full loan or Partial loan) or rejecting loan applicants
 - loan.csv with 111 columns related to the existing customer who are either - Paid, paying or defaulted their loans
